@@ -5,6 +5,8 @@
 <!-- Thay thế 'demo.png' bằng đường dẫn tới file ảnh thực tế của bạn. 
      Bạn có thể dùng thẻ <img src="demo.png" width="300" /> nếu muốn chỉnh kích thước ảnh. -->
 ![Demo App Screenshot](demo.png)
+<!-- Demo Video -->
+<video src="assets/Simulator%20Screen%20Recording%20-%20iPhone%2015%20Pro%20-%202026-01-22%20at%2010.57.34.mov" controls width="300"></video>
 
 ## 🌟 Tính năng chính
 
