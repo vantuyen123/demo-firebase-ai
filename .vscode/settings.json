@@ -1,0 +1,6 @@
+{
+  "cSpell.enabledFileTypes": {
+    "dart": false
+  },
+  "dart.flutterSdkPath": ".fvm/flutter_sdk"
+}
